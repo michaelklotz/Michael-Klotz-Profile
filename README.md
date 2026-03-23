@@ -318,7 +318,7 @@
 | [XML](http://en.wikipedia.org/wiki/XML) | 2022 |
 | [JSON](http://en.wikipedia.org/wiki/JSON) | Present |
 | [DOS Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2022 |
-| [Scala](http://www.scala-lang.org/) | 2020 |
+| [Scala](http://www.scala-lang.org/) | Present |
 | [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2020 |
 | [HTML / HTML 5](http://en.wikipedia.org/wiki/HTML5) | 2020 |
 | [PHP](http://php.net/) | 2016 |
