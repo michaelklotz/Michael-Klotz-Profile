@@ -47,21 +47,6 @@
 
 ### Senior Data Engineer
 
-| Employer | **[Aura](https://www.aura.com/)** |
-| Job Function | Cloud Data Engineering, Aura Data Platform | 
-| Unit | Data Engineering Team |
-| Location | Boston, MA (Remote from Prescott, WI) |
-| Dates | Apr 2025 – *Present* |
-
- - Designed and deployed feature tables for parental insight and wellbeing Data Science models
- - Built AI pipelines for high-sensitivity risk detection, including concerning conversations and self-harm prevention
- - Promoted engineering excellence by implementing PR templates, standardized IDE rules, Data Quality check and CI/CD scaffolding to enforce team standards
- - Served as primary stakeholder liaison for Data Science, working with multiple stakeholders to prioritize, plan, and deliver projects
- - Pioneered technical security initiatives, including a Proof of Concept (POC) for automated column masking within Databricks to ensure data privacy.
- - Mentored junior team members, providing direct 1-on-1 guidance to foster career growth and learning
-
-### Senior Data Engineer
-
 | Employer | **[Hinge Health](https://www.hingehealth.com/)** |
 | Job Function | Cloud Data Engineering, Data Platform | 
 | Unit | Data Engineering Team |
