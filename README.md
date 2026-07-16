@@ -30,20 +30,34 @@
 
 ## Work Experience
 
+### Manager, Data Engineering
+
+| Employer | **[Aura](https://www.aura.com/)** |
+| Job Function | Cloud Data Engineering, Aura Data Platform | 
+| Unit | Data Engineering Team |
+| Location | Boston, MA (Remote from Prescott, WI) |
+| Dates | Apr 2026 – *Present* |
+
+ - Operated as a Player-Coach, leading a hybrid team of Data and Intelligence Engineers, successfully balancing hands-on technical architecture with day-to-day team leadership
+ - Conducted agile planning processes—including sprint planning, retrospectives, and post-mortems—to align engineering efforts with top-level company initiatives and quarterly goals
+ - Served as primary stakeholder liaison for Data Science, working with multiple stakeholders to prioritize, plan, and deliver projects according to the engineering roadmap
+ - Dedicated to professional development by conducting regular 1-on-1s, establishing individualized career growth paths, and mentoring team members on modern data patterns
+ - Optimized team resource allocation and capacity planning, successfully managing project backlogs to improve on-time sprint delivery
+ - Architected a high-performance data mirroring framework connecting AWS S3 Tables (Apache Iceberg) to Databricks, streamlining cross-platform data access
+
 ### Senior Data Engineer
 
 | Employer | **[Aura](https://www.aura.com/)** |
 | Job Function | Cloud Data Engineering, Aura Data Platform | 
 | Unit | Data Engineering Team |
 | Location | Boston, MA (Remote from Prescott, WI) |
-| Dates | Apr 2025 – *Present* |
+| Dates | Apr 2025 – Apr 2026 |
 
- - Designed and deployed feature tables for parental insight and wellbeing Data Science models
+ - Designed and deployed feature tables for parental insight and wellbeing features
  - Built AI pipelines for high-sensitivity risk detection, including concerning conversations and self-harm prevention
+ - Built tools and processes to migrate Databricks assets between workspaces and catalogs
  - Promoted engineering excellence by implementing PR templates, standardized IDE rules, Data Quality check and CI/CD scaffolding to enforce team standards
- - Served as primary stakeholder liaison for Data Science, working with multiple stakeholders to prioritize, plan, and deliver projects
- - Pioneered technical security initiatives, including a Proof of Concept (POC) for automated column masking within Databricks to ensure data privacy.
- - Mentored junior team members, providing direct 1-on-1 guidance to foster career growth and learning
+ - Pioneered technical security initiatives, including a Proof of Concept (POC) for automated column masking within Databricks to ensure data privacy
 
 ### Senior Data Engineer
 
